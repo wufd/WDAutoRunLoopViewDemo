@@ -1,0 +1,2 @@
+# WDAutoRunLoopViewDemo
+简单自动无限循环轮播image view。使用Masonry进行自动布局。其他轮播可以参考此结构，内容view使用创建类cell的通用模板
